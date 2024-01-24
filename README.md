@@ -12,7 +12,12 @@ Warning: new weapons work only if this mod installed in both players and you pla
 Weapons list:
 
 BIG SWORD - literally bigger version of sword
+
 blaster - laser gun with small beam small recoil and beam time
+
 BAZOOKA - rocket launcher with WERY fast rocket
+
 sniper rifle - gun with one small very fast projectile
+
 rifle - simple rifle with fast fire rate a lot of bullets but their speed is slow 
+
