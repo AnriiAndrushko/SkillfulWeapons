@@ -1,5 +1,5 @@
 How to install:
-Download and install modweaver from official GitHub https://github.com/modweaver/modweaver
+1.Download and install modweaver from official GitHub https://github.com/modweaver/modweaver
 2.Unpack all files from SkillfulWeapons archive into mods folder created by modweaver
 3.Enjoy new weapons
 
