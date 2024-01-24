@@ -1,0 +1,11 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/bin
+/.vs/SkillfulWeapons/FileContentIndex
+/.vs/SkillfulWeapons/v17
+/.vs
+/obj
+/Properties
+*.toml
