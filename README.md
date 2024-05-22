@@ -21,3 +21,5 @@ sniper rifle - gun with one small very fast projectile
 
 rifle - simple rifle with fast fire rate a lot of bullets but their speed is slow 
 
+Showcase: https://youtu.be/ypVbo-gW5o8
+
